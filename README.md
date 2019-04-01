@@ -101,3 +101,4 @@ If you have implemented one or more of these enhancements and wish to be conside
 Your extra credit features will be evaluated only if your project was turned in on time and you have fully and correctly implemented the requirements. 
  
 # CIS-211 FiveTwelve Work
+Running game_manager.py will run the game
